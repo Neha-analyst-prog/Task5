@@ -7,6 +7,7 @@ Exploratory Data Analysis on Titanic dataset using Python (Pandas, Matplotlib, S
 ## Files
 - `Task5.ipynb` — colab notebook with step-by-step EDA and plots.
 - `titanic_eda_cleaned.csv` — cleaned dataset exported from the notebook.
+- Task5_Code and Output.pdf
 - `README.md` — this file.
 
 ## How to run
