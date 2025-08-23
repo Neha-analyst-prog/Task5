@@ -1,4 +1,4 @@
-# Task5 - Titanic Dataset
+# Titanic Dataset
 Exploratory Data Analysis
 
 ## Overview
